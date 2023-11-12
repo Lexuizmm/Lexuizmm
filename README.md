@@ -1,14 +1,14 @@
-## Merhaba Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Merhaba Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-🎉 Tekrardan herkese selam!
+# 🎉 Tekrardan herkese selam!
 
-🎉 Bot Kodluyorum Ve İstek Üzerine Editlemeler Yapıyorum
+# 🎉 Bot Kodluyorum Ve İstek Üzerine Editlemeler Yapıyorum
 
-Kendimden biraz bahsedeyim. Ben Eren [Lexuizmm](https://github.com/lexuizmm) 16 yaşındayım, Discord Bot Hakkında Kodlamalar Yapıyorum.Ve Bunu 2 Yıl'dır Yapıyorum
+# Kendimden biraz bahsedeyim. Ben Eren [Lexuizmm](https://github.com/lexuizmm) 16 yaşındayım, Discord Bot Hakkında Kodlamalar Yapıyorum.Ve Bunu 2 Yıl'dır Yapıyorum
 
-🎉🎉Discord Ücretli/Ücretsiz Projeler İçin Ulaşabilirsiniz
+# 🎉🎉Discord Ücretli/Ücretsiz Projeler İçin Ulaşabilirsiniz
 
-Bildiğim Diller Ve Toolslar
+# Bildiğim Diller Ve Toolslar
 
 ## <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
