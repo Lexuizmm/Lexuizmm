@@ -24,12 +24,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </br>
 
-## <h3>🌟 Sosyal medya hesaplarım!</h3>
-<p align="left">
-     <a href="https://instagram.com/erenimizs" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a href="https://open.spotify.com/user/31yj7be4gn67bo4jtmm4pzmdsxli" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-    
-   
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/920738699032014848?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/920738699032014848)
      
 </p>
