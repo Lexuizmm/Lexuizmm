@@ -2,6 +2,12 @@
 
 # 🎉 Tekrardan herkese selam!
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=ShewnDev&label=Ziyaretçi%20Sayısı&color=yellow" alt="-lexuizmm" />
+</div>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7D20C&center=yanlış&vCenter=yanlış&width=435&lines=🔱+Destek+%26+Yardım+İçin+lexuizm." alt="Typing SVG" /></a>
+
 # 🎉 Bot Kodluyorum Ve İstek Üzerine Editlemeler Yapıyorum
 
 # Kendimden biraz bahsedeyim. Ben Eren [Lexuizmm](https://github.com/lexuizmm) 16 yaşındayım, Discord Bot Hakkında Kodlamalar Yapıyorum.Ve Bunu 2 Yıl'dır Yapıyorum
