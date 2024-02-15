@@ -10,7 +10,7 @@
 
 # 🎉 Bot Kodluyorum Ve İstek Üzerine Editlemeler Yapıyorum
 
-# Kendimden biraz bahsedeyim. Ben Eren [Lexuizmm](https://github.com/lexuizmm) 16 yaşındayım, Discord Bot Hakkında Kodlamalar Yapıyorum.Ve Bunu 2 Yıl'dır Yapıyorum
+# Kendimden biraz bahsedeyim. Ben Eren [Lexuizmm](https://github.com/lexuizmm) 17 yaşındayım, Discord Bot Hakkında Kodlamalar Yapıyorum.Ve Bunu 2 Yıl'dır Yapıyorum
 
 # 🎉🎉Discord Ücretli/Ücretsiz Projeler İçin Ulaşabilirsiniz
 
