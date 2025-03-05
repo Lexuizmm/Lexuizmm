@@ -41,7 +41,7 @@
 
   
 
-<img src="https://lanyard.kyrie25.me/api/920738699032014848?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+<img src="https://lanyard.cnrad.dev/api/920738699032014848)](https://discord.com/users/920738699032014848"  />
 
 </table>
    
