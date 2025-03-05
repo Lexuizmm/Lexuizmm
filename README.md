@@ -1,30 +1,48 @@
-# Merhaba Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Hey there, I'm Eren
 
-# 🎉 Tekrardan herkese selam!
+<br>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ShewnDev&label=Ziyaretçi%20Sayısı&color=yellow" alt="-lexuizmm" />
-</div>
+**Talking about Personal Stuffs:**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7D20C&center=yanlış&vCenter=yanlış&width=435&lines=🔱+Destek+%26+Yardım+İçin+lexuizm." alt="Typing SVG" /></a>
+> 🌱 I’m currently learning Javascript <br>
+> 📫 Please via [Discord](https://discord.gg/dTUu2sTxT2) to reach me. <br>
+> 🌠 <img src="https://komarev.com/ghpvc/?username=lexuizmm&label=Visitors&color=brightgreen&style=plastic" alt="lexuizmm"/></td>
 
-# 🎉 Bot Kodluyorum Ve İstek Üzerine Editlemeler Yapıyorum
-
-# Kendimden biraz bahsedeyim. Ben Eren [Lexuizmm](https://github.com/lexuizmm) 17 yaşındayım, Discord Bot Hakkında Kodlamalar Yapıyorum.Ve Bunu 4 Yıl'dır Yapıyorum
-
-# 🎉🎉Discord Ücretli/Ücretsiz Projeler İçin Ulaşabilirsiniz
-
-# Bildiğim Diller Ve Toolslar
-
-## <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/d11bc5fc022603363226da69441297bc1f6dda6cd6253d80f5ed010125810aad/68747470733a2f2f692e696d6775722e636f6d2f534931445a66332e706e67"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-</br>
+
+<br>
+
+### Stats
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=lexuizm&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&include_all_commits=true" />
+    </td>
+    
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lexuizm&theme=monokai)
+    
+  <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/top-langs/?username=lexuizm&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=redleague/hookgg,discord-bot-template,node-weeby;tuneorg/spotify" />
+    </td>
+  </tr>
+</table>
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/920738699032014848?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/920738699032014848)
-     
-</p>
+
+
+### Discord Account
+<table>
+  <tr>
+<td align="center" style="padding=0;width=50%;">
+
+  
+
+<img src="https://lanyard.kyrie25.me/api/920738699032014848?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+
+</table>
+   
+
