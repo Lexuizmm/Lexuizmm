@@ -41,7 +41,7 @@
 
   
 
-[![Discord](https://lanyard.cnrad.dev/api/920738699032014848)](https://discord.com/users/920738699032014848)
+[![Discord](https://lanyard.cnrad.dev/api/933786529569058817)](https://discord.com/users/920738699032014848)
 
 </table>
    
